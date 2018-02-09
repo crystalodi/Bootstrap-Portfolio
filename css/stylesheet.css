@@ -1,3 +1,6 @@
+.container {
+	padding-bottom:60px;
+}
 .sticky-footer {
 	position:fixed;
 	bottom:0;
